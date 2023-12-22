@@ -1,0 +1,7 @@
+[package]
+name = "zippng"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+oxipng = "9.0.0"
